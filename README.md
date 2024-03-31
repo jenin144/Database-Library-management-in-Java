@@ -5,7 +5,7 @@ Member Signup
 
 Member Login 
 
-![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/d049e4cf-3bcc-4632-a7bf-e6fa7ad3636e)
+![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/5a719349-8b27-4b70-b5bc-b1034283654d)
 
 ![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/dbca1c1a-0171-4f82-bd0f-5aef207f5f36)
 
@@ -13,7 +13,6 @@ Member Login
 ![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/1ba3d55e-4cd9-481d-a346-f733f7c49bbb)
 
 
-![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/5a719349-8b27-4b70-b5bc-b1034283654d)
 
 
 employee login 
