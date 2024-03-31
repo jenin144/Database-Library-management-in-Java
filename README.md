@@ -7,7 +7,6 @@ Member Login
 
 ![image]
 
-![image]
 
 (https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/5405fd3c-3111-4509-983a-ba5edaa47b71)
 
