@@ -50,16 +50,3 @@ manager login
 
 
 
-
-
-
-
-
-
-![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/3b0ee640-7ac7-474c-9a83-fa2ccb41b2dd)
-
-![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/3b971171-6f96-4dc2-bde7-86f489fea081)
-
-![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/1eb077ff-2885-4cec-bb93-275e01b7e6b8)
-
-
