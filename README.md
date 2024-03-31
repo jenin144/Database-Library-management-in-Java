@@ -31,8 +31,6 @@ employee login
 
 
 
-![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/2153aded-cf65-4f45-9fd1-676c1bf8a0e6)
-
 ![image](https://github.com/jenin144/Database-Library-management-in-Java/assets/151941064/4556f907-c95a-42b7-82e9-5e6fb16c39fa)
 
 
